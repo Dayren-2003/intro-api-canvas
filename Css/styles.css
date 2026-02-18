@@ -1,9 +1,0 @@
-/* Estilo del canvas */
-#lienzo {
-    background-color: #131313;      /* Café claro (relleno) */
-    border: 3px solid #fcfcfc;       /* Café oscuro (borde) */
-    border-radius: 40px;            /* Orillas redondeadas */
-    box-shadow: 8px 8px 15px rgba(0, 0, 0, 0.4); /* Sombra */
-    display: block;
-    margin: 20px auto;              /* Centrado horizontal */
-}
